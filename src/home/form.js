@@ -13,7 +13,7 @@ render(){
       <div >
         <div>
           <form
-            action="https://formspree.io/bookings@heydaybeer.com"
+            action="https://formspree.io/hcnd90@gmail.com"
             method="POST"
           >
             {/* name */}
@@ -29,11 +29,6 @@ render(){
   <br></br>
   <div className={formStyles.formInputs}>
     <input className={formStyles.formInputsText}type="email" name="email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder='Email'/>
-  </div>
-  <div >
-    <div className={formStyles.formInputs}>
-      <input className={formStyles.formInputsText} type="text" name="time" placeholder="Time"/>
-    </div>
   </div>
   <br></br>
   <div >
